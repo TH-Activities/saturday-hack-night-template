@@ -1,4 +1,4 @@
-![Github](https://user-images.githubusercontent.com/64391274/211215734-bbc57b92-9a71-496d-873e-3eedc7523916.png)
+![Plasmo Notion](https://user-images.githubusercontent.com/64391274/219693594-5118372c-b82d-4f34-b8bd-9431ae6fbd6b.png)
 
 
 # Project Name
