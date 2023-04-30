@@ -1,5 +1,4 @@
-![Engage Spot Notion](https://user-images.githubusercontent.com/64391274/230778611-64589571-eaaa-4677-b115-7626978dd856.png)
-
+![Electron Notion](https://user-images.githubusercontent.com/64391274/235363274-375ce61c-721f-4543-a150-1b99525d54ac.png)
 
 
 # Project Name
