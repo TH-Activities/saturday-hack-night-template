@@ -1,4 +1,4 @@
-![Electron Notion](https://user-images.githubusercontent.com/64391274/235363274-375ce61c-721f-4543-a150-1b99525d54ac.png)
+![AppWrite Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/a2cc61ac-e96d-43bb-b578-d2a2a58588fc)
 
 
 # Project Name
