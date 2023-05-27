@@ -1,13 +1,13 @@
-![AppWrite Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/a2cc61ac-e96d-43bb-b578-d2a2a58588fc)
+![PyneCone Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/1e2cbdc1-829f-409a-8d13-03648d912472)
 
 
 # Project Name
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. Name [Embed personal github URL]
-2. Name [Embed perosnal github URL]
+1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
+2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
-[link to video]
+[link to video](Link Here)
 ## How it Works ?
 1. Explaining the working of project
 2. Embed video of project demo
