@@ -1,4 +1,4 @@
-![PyneCone Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/1e2cbdc1-829f-409a-8d13-03648d912472)
+![Plasmo Notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/64391274/85d3fbb8-aed6-4751-b051-4539df392f1a)
 
 
 # Project Name
