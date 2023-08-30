@@ -1,4 +1,4 @@
-(![Chroma Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/365c00da-597c-446f-9aa7-bed99fb26074)
+![Chroma Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/365c00da-597c-446f-9aa7-bed99fb26074)
 
 
 
