@@ -1,5 +1,5 @@
+![Open CV Github Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/78554b37-32b2-4488-a10c-5c68098d7776)
 
-![Novel Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/4c26e8ac-2dd1-4d75-8e1a-9f7585e3b381)
 
 
 # Project Name
