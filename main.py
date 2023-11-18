@@ -3,7 +3,7 @@ import numpy as np
 from tensorflow.keras.models import load_model
 
 # Load pre-trained emotion recognition model
-model = load_model('path/to/emotion_model.h5')
+model = load_model('https://www.kaggle.com/code/gauravsharma99/facial-emotion-recognition')
 
 # Define the emotion labels
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Sad', 'Surprise', 'Neutral']
