@@ -4,7 +4,7 @@ import tensorflow as tf
 import tensorflow_hub as hub
 
 # Load the pre-trained model from TensorFlow Hub
-model_url = "https://tfhub.dev/captain-pool/esrgan-tf2/1"  # Replace with the URL of the facial emotion recognition model
+model_url = "https://www.kaggle.com/code/gauravsharma99/facial-emotion-recognition"
 model = hub.load(model_url)
 
 # Define the emotion labels
