@@ -37,7 +37,7 @@ while True:
         face_roi = np.expand_dims(face_roi, axis=0)
         face_roi = face_roi / 255.0  # Normalize the pixel values
 
-        # Predict the emotion
+        # Predict your emotions
         emotion_probabilities = model.predict(face_roi)
         emotion_index = np.argmax(emotion_probabilities)
         emotion = emotion_labels[emotion_index]
