@@ -1,8 +1,8 @@
 # A real-time emotion recognition system. 
  A python program to recognize emotions from facial expressions.
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [IRIS MARIAH KURIEN](https://github.com/TH-Activities/saturday-hack-night-template)
+2. [THEERTHA S LAL](https://github.com/TH-Activities/saturday-hack-night-template)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
