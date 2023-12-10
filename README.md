@@ -1,4 +1,5 @@
-![Open CV Github Frame](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/78554b37-32b2-4488-a10c-5c68098d7776)
+
+![Frappe](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/dcac7ad1-08f8-4a17-b316-7b3e0eede15e)
 
 
 
