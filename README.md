@@ -4,11 +4,12 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
-## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
-## Link to product walkthrough
+## Facial Registerar :trollface:
+
+# Team members
+1. [Athul Prakash](https://github.com/psychoSherlock)
+2. [Sudheesh S Pai](https://github.com/Sudheeshspai)
+### Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
 1. Explaining the working of project
