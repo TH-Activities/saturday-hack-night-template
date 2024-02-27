@@ -1,5 +1,6 @@
 
-![kerascv](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/8a64f118-b69d-4bd7-b59b-a28becafe0dd)
+![notionexpo](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/c35eb3eb-c105-4e4a-ac11-36dcda7bca67)
+
 
 
 
