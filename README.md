@@ -1,5 +1,5 @@
 
-![notionexpo](https://github.com/TH-Activities/saturday-hack-night-template/assets/90635335/c35eb3eb-c105-4e4a-ac11-36dcda7bca67)
+![django notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/2db31367-8f96-4e88-8a8d-a1a75936204d)
 
 
 
