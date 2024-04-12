@@ -1,5 +1,5 @@
 
-![django notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/2db31367-8f96-4e88-8a8d-a1a75936204d)
+![pytorch notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/b3a31a3d-5852-48ab-86ab-1fe5dd336551)
 
 
 
