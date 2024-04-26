@@ -1,5 +1,6 @@
 
-![pytorch notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/b3a31a3d-5852-48ab-86ab-1fe5dd336551)
+
+![Vuejs notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/b879ba9f-2057-431b-99db-e86a0010b1ea)
 
 
 
