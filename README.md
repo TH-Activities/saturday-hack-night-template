@@ -1,6 +1,5 @@
 
-
-![LangChain notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/af58a18d-932c-4ee7-870b-20820cfa3f3f)
+![Selenium notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/55359343-b124-49be-b8c8-9e6f5d295c8f)
 
 
 
